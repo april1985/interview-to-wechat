@@ -1,0 +1,4 @@
+interface:
+  display_name: "访谈转公众号"
+  short_description: "从妙记原文自动完成脱敏、文章改写、统一配图和可复制排版 HTML"
+  default_prompt: "使用 $interview-to-wechat，把这个妙记链接整理成完整的公众号文章和配图。"
